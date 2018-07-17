@@ -19,6 +19,7 @@ target_link_libraries(clang-tidy
   clangTidy
   clangTidyAndroidModule
   clangTidyBoostModule
+  clangTidyBtcModule
   clangTidyBugproneModule
   clangTidyCERTModule
   clangTidyCppCoreGuidelinesModule

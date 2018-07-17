@@ -17,6 +17,7 @@ Clang-Tidy Checks
    android-cloexec-open
    android-cloexec-socket
    boost-use-to-string
+   btc-derived-from-sharable-stack-prohibitoion
    bugprone-argument-comment
    bugprone-assert-side-effect
    bugprone-bool-pointer-implicit-conversion
