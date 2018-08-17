@@ -25,8 +25,11 @@
 cscope.files
 cscope.out
 .clang_complete
+#.travis.yml
 
 #==============================================================================#
 # Directories to ignore (do not add trailing '/'s, they skip symlinks).
 #==============================================================================#
 docs/_build
+#travis-ci/*
+
